@@ -23,7 +23,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description>Request all your loans and get approved</short_description>
         <source>x_cdltd_loan_req</source>
-        <store_correlation_id>REPOAPP0000002088</store_correlation_id>
+        <store_correlation_id>REPOAPP0000002089</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -31,16 +31,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-12-27 21:32:56</sys_created_on>
         <sys_id>4c7a4fa09f3212107f44161ad824ab06</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-12-31 16:43:02</sys_updated_on>
+        <sys_updated_on>2024-12-31 17:07:08</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>2.0.1</version>
+        <version>3.0.0</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=4c7a4fa09f3212107f44161ad824ab06"/>
 </record_update>
